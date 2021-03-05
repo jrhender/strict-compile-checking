@@ -1,0 +1,16 @@
+{
+  "name": "ew-did-registry-compile-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ew-did-registry/did-registry": "0.1.0-alpha.0",
+    "typescript": "^4.2.3"
+  }
+}
